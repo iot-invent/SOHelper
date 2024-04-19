@@ -21,7 +21,7 @@
 
     <groupId>io.rtlscloud.vaadin</groupId>
     <artifactId>so-helper</artifactId>
-    <version>3.0.0-SNAPSHOT</version>
+    <version>3.0-SNAPSHOT</version>
     <name>SO Helper</name>
     <description>Helper classes for Vaadin related development</description>
 
