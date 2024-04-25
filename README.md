@@ -1,3 +1,4 @@
+This is a copy of SOHelper to make it Java 11 and Vaadin 14 compatible
 # SO Helper
 A set of helper classes for Vaadin related development. It is currently being used in the following projects.
 
