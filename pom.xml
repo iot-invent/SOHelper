@@ -21,11 +21,13 @@
 
     <groupId>io.rtlscloud.vaadin</groupId>
     <artifactId>so-helper</artifactId>
-    <version>3.0-SNAPSHOT</version>
+    <version>${revision}${changelist}</version>
     <name>SO Helper</name>
     <description>Helper classes for Vaadin related development</description>
 
     <properties>
+	<revision>3.0</revision>
+	<changelist>-SNAPSHOT</changelist>
         <vaadin.version>14.11.5</vaadin.version>
         <maven.compiler.source>11</maven.compiler.source>
         <maven.compiler.target>11</maven.compiler.target>
